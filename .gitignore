@@ -1,0 +1,6 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+/dayday-kim-101.github.io.iml
