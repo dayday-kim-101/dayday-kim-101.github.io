@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "맥북에서 부팅 시 쥬피터 자동 실행"
+categories: tip
 ---
 
 # 요약

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "github.io로 블로그 만들기"
+categories: tip
 ---
 
 # 요약
