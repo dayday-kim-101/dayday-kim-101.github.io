@@ -64,9 +64,9 @@ a:hover {
 }
 
 /* for table border */
-table, th, td {
-	border: 1px solid black;
-}
+/*table, th, td {*/
+/*	border: 1px solid black;*/
+/*}*/
 
 pre {
 	display: block;
