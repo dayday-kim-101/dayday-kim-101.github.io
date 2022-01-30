@@ -64,9 +64,16 @@ a:hover {
 }
 
 /* for table border */
-/*table, th, td {*/
-/*	border: 1px solid black;*/
-/*}*/
+table {
+	/*border: 1px solid black;*/
+}
+th, td {
+	border: 1px solid black;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 6px;
+	padding-right: 6px;
+}
 
 pre {
 	display: block;
