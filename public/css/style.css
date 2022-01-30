@@ -64,11 +64,8 @@ a:hover {
 }
 
 /* for table border */
-th {
-	border: #0f140f;
-}
-td {
-	border: #0f140f;
+table, th, td {
+	border: 1px solid black;
 }
 
 pre {
