@@ -64,11 +64,13 @@ a:hover {
 }
 
 /* for table border */
-table {
+table, tr, td, th {
 	border: 1px solid black;
 }
+
+
 th, td {
-	border: 1px solid black;
+	/*border: 1px solid black;*/
 	padding-top: 3px;
 	padding-bottom: 3px;
 	padding-left: 6px;
