@@ -40,7 +40,7 @@ categories: tip
 
 ### 2-1. 원하는 테마 고르기
 
-1. [지킬테마 사이트](https://github.com/topics/jekyll-theme)에서 원하는 테마 골라서 Fork 합니다.
+1. [지킬테마 사이트](https://github.com/topics/jekyll-theme) 에서 원하는 테마 골라서 Fork 합니다.
 2. 보통 minimal-mistakes 테마를 많이 골라요!
 
 ![](https://github.com/dayday-kim-101/dayday-kim-101.github.io/blob/master/images/2021-04-13-start-githubio/2_1_choose_theme_0.png?raw=true)
