@@ -1,8 +1,14 @@
 ---
 layout: post
 title:  "전문연구요원(산업체) 준비하기"
-categories: substitute-service
+categories: 전문연구요원
+tags:  병역특례
+author: dayday
 ---
+
+* content
+{:toc}
+
 
 # 요약
 1. 전문연구요원 지원 시기
@@ -11,6 +17,11 @@ categories: substitute-service
 4. 전문연구요원 지원 당시 상황
 5. 전문연구요원 합격 후기
 <br>
+
+
+
+
+
 
 # 1. 전문연구요원 지원 시기
 
