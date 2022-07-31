@@ -2,12 +2,21 @@
 layout: post
 title:  "맥북에서 부팅 시 쥬피터 자동 실행"
 categories: tip
+tags:  macbook
+author: dayday
 ---
+
+* content
+{:toc}
 
 # 요약
 1. 애플 스크립트 만들기
 2. 스크립트 로드하기
 <br>
+
+
+
+
 
 # 1. 애플 스크립트 만들기
 

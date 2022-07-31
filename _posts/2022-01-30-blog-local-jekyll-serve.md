@@ -2,13 +2,21 @@
 layout: post
 title:  "로컬에서 jekyll 블로그(github.io 블로그) 돌려보기 on Windows"
 categories: blog
+tags:  blog
+author: dayday
 ---
+
+* content
+{:toc}
 
 # 요약
 1. 루비 설치
 2. gem으로 필요한 패키지 설치
 3. bundle install을 통해 gemfile내 패키지들 설치하기
 4. 로컬서버 실행
+
+
+
 
 
 # 1. 루비 설치

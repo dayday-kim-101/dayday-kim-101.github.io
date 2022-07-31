@@ -2,13 +2,23 @@
 layout: post
 title:  "github.io로 블로그 만들기"
 categories: tip
+tags:  blog
+author: dayday
 ---
+
+* content
+{:toc}
 
 # 요약
 1. github 계정 만들기
 2. repository 만들기
 3. config 수정하기
 4. 포스팅하기
+
+
+
+
+
 
 
 
