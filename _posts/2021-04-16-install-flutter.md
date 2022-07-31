@@ -2,12 +2,24 @@
 layout: post
 title:  "Flutter 설치하기 on MacOS"
 categories: tip
+tags:  flutter
+author: dayday
 ---
+
+* content
+{:toc}
+
 
 # 요약
 1. 미리 준비 하기
 2. 설치하기
    <br>
+
+
+
+
+
+
 
 # 1. 미리 준비 하기
 

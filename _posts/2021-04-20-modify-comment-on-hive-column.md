@@ -2,12 +2,24 @@
 layout: post
 title:  "hive 테이블 comment 수정하기"
 categories: Hive
+tags:  hive
+author: dayday
 ---
+
+* content
+{:toc}
+
 
 # 요약
 1. beeline 접속
 2. 명령어 실행
    <br>
+
+
+
+
+
+
 
 # 1. beeline 접속
 
