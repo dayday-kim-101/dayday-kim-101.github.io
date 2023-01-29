@@ -7,7 +7,7 @@ author: dayday
 ---
 
 * content
-  {:toc}
+{:toc}
 
 # 요약
 1. 구매 과정 요약
