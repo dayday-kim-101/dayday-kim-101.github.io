@@ -7,7 +7,7 @@ author: dayday
 ---
 
 * content
-  {:toc}
+{:toc}
 
 # 요약
 1. 이게 진통의 시작이었구나
