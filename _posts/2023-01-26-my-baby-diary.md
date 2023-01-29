@@ -2,11 +2,12 @@
 layout: post
 title:  "아기를 처음 만난 아빠"
 categories: life
+tags: baby
+author: dayday
 ---
 
 * content
   {:toc}
-
 
 # 요약
 1. 이게 진통의 시작이었구나
