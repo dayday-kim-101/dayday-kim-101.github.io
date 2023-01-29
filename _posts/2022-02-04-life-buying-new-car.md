@@ -2,7 +2,12 @@
 layout: post
 title:  "신차 구매하기"
 categories: life
+tags: car
+author: dayday
 ---
+
+* content
+  {:toc}
 
 # 요약
 1. 구매 과정 요약
