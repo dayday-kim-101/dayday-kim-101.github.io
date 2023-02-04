@@ -28,7 +28,7 @@ author: dayday
 
 걍 아래 링크에서 다운 받고, 귀찮으니까 Next 하면서 설치 <br>
 
-[Anaconda|Individual Edition](https://www.anaconda.com/products/distribution)
+[Anaconda Individual Edition](https://www.anaconda.com/products/distribution)
 
 <br>
 <br>
