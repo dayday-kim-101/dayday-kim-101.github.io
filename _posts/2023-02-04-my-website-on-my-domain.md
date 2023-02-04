@@ -44,7 +44,7 @@ author: dayday
 
 <br>
 
-> www.gabia.com/ 에서 회원가입 -> 원하는 도메인 검색 후 구매
+> [가비아](https://www.gabia.com/) 에서 회원가입 -> 원하는 도메인 검색 후 구매
 
 <br>
 <br>
